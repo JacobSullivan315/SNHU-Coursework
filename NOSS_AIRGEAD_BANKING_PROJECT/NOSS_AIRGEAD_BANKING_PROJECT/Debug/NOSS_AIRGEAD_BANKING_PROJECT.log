@@ -1,0 +1,10 @@
+﻿  CalcValues.cpp
+C:\Users\jwsul\source\repos\NOSS_AIRGEAD_BANKING_PROJECT\SourceFiles\CalcValues.cpp(35,33): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jwsul\source\repos\NOSS_AIRGEAD_BANKING_PROJECT\SourceFiles\CalcValues.cpp(60,33): warning C4018: '<=': signed/unsigned mismatch
+  DataTableDisplay.cpp
+  Main.cpp
+C:\Users\jwsul\source\repos\NOSS_AIRGEAD_BANKING_PROJECT\SourceFiles\Main.cpp(33,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jwsul\source\repos\NOSS_AIRGEAD_BANKING_PROJECT\SourceFiles\Main.cpp(95,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  WelcomeMenus.cpp
+  Generating Code...
+  NOSS_AIRGEAD_BANKING_PROJECT.vcxproj -> C:\Users\jwsul\source\repos\NOSS_AIRGEAD_BANKING_PROJECT\Debug\NossAirgeadBankingProject.exe
